@@ -4,6 +4,7 @@
   "dependencies": {
     "@tensorflow/tfjs-node": "1.4.0",
     "canvas": "^2.6.0",
-    "face-api.js": "../../"
+    "face-api.js": "file:../..",
+    "typescript": "^3.7.5"
   }
 }
